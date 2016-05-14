@@ -12,15 +12,32 @@
 		7EE8E0E5B594F973BB2A6A26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EE8EDE0F110216E0D48FBFB /* Main.storyboard */; };
 		7EE8E3A19B8AF48E6913A8E9 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7EE8E7304876F962A404A01C /* Info.plist */; };
 		7EE8E435DF44197EEB80C535 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EE8EDB2102A785A8080509B /* LaunchScreen.storyboard */; };
+		7EE8E43ECF600F6E4958BAB7 /* VersionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E82D3A215939F6EB6D2F /* VersionModel.m */; };
 		7EE8E5D7BA309842AD4F5AC9 /* DataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EAD835E2B6FB6469E5B2 /* DataViewController.m */; };
 		7EE8E5F74DB09EA117AA1D5C /* ModelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EC20B222BAA4CA00AB22 /* ModelController.m */; };
+		7EE8E63492373B21B1B083DF /* UserInfoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EE86A72F8678A2AE0FE0 /* UserInfoModel.m */; };
+		7EE8E6ABC9787D9A9BE7991D /* GoodsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8ED03894DC9D8EBEB0C80 /* GoodsViewController.m */; };
 		7EE8E705B7F379B6B42672E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E356E9CD887F70003D88 /* main.m */; };
+		7EE8E71B6FFD92914420D8D8 /* LoginReqModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EDF36B40A26B47093A4F /* LoginReqModel.m */; };
 		7EE8E739D0ECB99D2CE61CF7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EB9DC1D35B98BC61A5B5 /* AppDelegate.m */; };
 		7EE8E73E5BE94FE1E94C0228 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EE8E282A2F8BC8CBDCA13C9 /* Assets.xcassets */; };
+		7EE8E771C84F93FE297C4931 /* RestService.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E8B2400CE3F92C919796 /* RestService.m */; };
 		7EE8E7969E8A825C95D8151F /* metamallUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E0F47F6556C7C1187D74 /* metamallUITests.m */; };
+		7EE8E81659524AF3817C522C /* FavoriteModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E8229D2E20CA9EAC5668 /* FavoriteModel.m */; };
+		7EE8E8240F258CC001D9BC99 /* AlipayModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E5DEA0F1217B3980D963 /* AlipayModel.m */; };
 		7EE8E9EB0D26FD05C0CA3F88 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E4D33E75E9FEB9944509 /* RootViewController.m */; };
+		7EE8EA28EE8C50EA1E65494A /* GoodsDetailModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EAECE6261BA91C3F98DD /* GoodsDetailModel.m */; };
 		7EE8EA5AE15CF1050F635B0B /* IndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E641BFCA282D20DC6922 /* IndexViewController.m */; };
+		7EE8EB5778740C5501E4E117 /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E1D4E5625F4E94B1E9F4 /* MeViewController.m */; };
 		7EE8EC1524C526E19CEBE67A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7EE8E7F077EB8AB0EA61E09E /* Info.plist */; };
+		7EE8EC523584F8BBB3B171AF /* RegisterReqModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E96CC1206C9811210957 /* RegisterReqModel.m */; };
+		7EE8EC95718B134EA2ED1E33 /* AlipayPostModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EF6FAE4DB617CB55F4C6 /* AlipayPostModel.m */; };
+		7EE8ED12C28E938D99251772 /* FavoriteListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EACF6259956CE94A7856 /* FavoriteListModel.m */; };
+		7EE8ED15A555AD483B0DA1E7 /* RegisterResModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E054F7D0D5FC5EA05A58 /* RegisterResModel.m */; };
+		7EE8EDFC98C4302FDC40563A /* GoodsListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E0681659A27E02590A18 /* GoodsListModel.m */; };
+		7EE8EE95FA59F836E2BBB1FB /* CartListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E0B6D1CE089C0F0AD8A6 /* CartListModel.m */; };
+		7EE8EF769E81569F14E0FEEE /* CartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E662BF744C40EFCCDC46 /* CartViewController.m */; };
+		7EE8EFD17893E6EE0D728344 /* LoginResModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E2132A4053AC907439F0 /* LoginResModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,27 +58,61 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7EE8E054F7D0D5FC5EA05A58 /* RegisterResModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterResModel.m; sourceTree = "<group>"; };
+		7EE8E0681659A27E02590A18 /* GoodsListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsListModel.m; sourceTree = "<group>"; };
+		7EE8E0B6D1CE089C0F0AD8A6 /* CartListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CartListModel.m; sourceTree = "<group>"; };
 		7EE8E0F47F6556C7C1187D74 /* metamallUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = metamallUITests.m; sourceTree = "<group>"; };
+		7EE8E145CF005E20189C7360 /* RegisterResModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterResModel.h; sourceTree = "<group>"; };
 		7EE8E16F4D5FD0791C46A13B /* ModelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModelController.h; sourceTree = "<group>"; };
+		7EE8E1B7707C42DAB1CBC7ED /* MeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeViewController.h; sourceTree = "<group>"; };
+		7EE8E1D4E5625F4E94B1E9F4 /* MeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeViewController.m; sourceTree = "<group>"; };
+		7EE8E1F4F4565C5ECFBFF233 /* FavoriteModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FavoriteModel.h; sourceTree = "<group>"; };
+		7EE8E2132A4053AC907439F0 /* LoginResModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginResModel.m; sourceTree = "<group>"; };
 		7EE8E25D1121CB0B816DB8E1 /* metamallTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = metamallTests.m; sourceTree = "<group>"; };
 		7EE8E282A2F8BC8CBDCA13C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EE8E356E9CD887F70003D88 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7EE8E36B0B178691B5F7FF13 /* AlipayPostModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlipayPostModel.h; sourceTree = "<group>"; };
 		7EE8E3C4F2F50604C45AEFAE /* DataViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataViewController.h; sourceTree = "<group>"; };
+		7EE8E47AF27DE0DB646EFE44 /* CartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CartViewController.h; sourceTree = "<group>"; };
+		7EE8E4D249EC680546DBF159 /* GoodsListModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsListModel.h; sourceTree = "<group>"; };
 		7EE8E4D33E75E9FEB9944509 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		7EE8E510FA3E9C94A7F90EC7 /* GoodsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsViewController.h; sourceTree = "<group>"; };
+		7EE8E53C0E18DA48DD6176EB /* LoginResModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginResModel.h; sourceTree = "<group>"; };
+		7EE8E5DEA0F1217B3980D963 /* AlipayModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlipayModel.m; sourceTree = "<group>"; };
 		7EE8E5F10602D8881321026C /* metamallTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = metamallTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EE8E61ED243682956BF9BBE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7EE8E641BFCA282D20DC6922 /* IndexViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndexViewController.m; sourceTree = "<group>"; };
 		7EE8E64D32513A5FDE3D60DD /* metamall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = metamall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EE8E654CB9B7E37A184E5DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7EE8E662BF744C40EFCCDC46 /* CartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CartViewController.m; sourceTree = "<group>"; };
 		7EE8E67B579397A4D8DDE745 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		7EE8E6985893DEF2D84D59A8 /* AlipayModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlipayModel.h; sourceTree = "<group>"; };
 		7EE8E7304876F962A404A01C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		7EE8E74A8AD6332A01EDCA1E /* VersionModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VersionModel.h; sourceTree = "<group>"; };
 		7EE8E7F077EB8AB0EA61E09E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		7EE8E8229D2E20CA9EAC5668 /* FavoriteModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FavoriteModel.m; sourceTree = "<group>"; };
+		7EE8E82D3A215939F6EB6D2F /* VersionModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VersionModel.m; sourceTree = "<group>"; };
+		7EE8E85B6357DB0857B6027A /* RestService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestService.h; sourceTree = "<group>"; };
+		7EE8E8B2400CE3F92C919796 /* RestService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestService.m; sourceTree = "<group>"; };
+		7EE8E96CC1206C9811210957 /* RegisterReqModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterReqModel.m; sourceTree = "<group>"; };
 		7EE8E9CCAFFB3E0F48898405 /* metamallUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = metamallUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EE8E9D821B058651A095491 /* RegisterReqModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterReqModel.h; sourceTree = "<group>"; };
+		7EE8EA8CCF3F2F8890D9A383 /* CartListModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CartListModel.h; sourceTree = "<group>"; };
+		7EE8EACF6259956CE94A7856 /* FavoriteListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FavoriteListModel.m; sourceTree = "<group>"; };
 		7EE8EAD835E2B6FB6469E5B2 /* DataViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataViewController.m; sourceTree = "<group>"; };
+		7EE8EAECE6261BA91C3F98DD /* GoodsDetailModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsDetailModel.m; sourceTree = "<group>"; };
+		7EE8EB189EB64E1C63DBABB0 /* FavoriteListModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FavoriteListModel.h; sourceTree = "<group>"; };
+		7EE8EB465D70943995AF2848 /* LoginReqModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginReqModel.h; sourceTree = "<group>"; };
 		7EE8EB4E1B180C3842A78DD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7EE8EB9DC1D35B98BC61A5B5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		7EE8EC20B222BAA4CA00AB22 /* ModelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModelController.m; sourceTree = "<group>"; };
+		7EE8EC28070088DA6F5A535E /* UserInfoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserInfoModel.h; sourceTree = "<group>"; };
+		7EE8ED03894DC9D8EBEB0C80 /* GoodsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsViewController.m; sourceTree = "<group>"; };
 		7EE8EDE51738E186B59E87F7 /* IndexViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndexViewController.h; sourceTree = "<group>"; };
+		7EE8EDF36B40A26B47093A4F /* LoginReqModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginReqModel.m; sourceTree = "<group>"; };
+		7EE8EE2925C7C6F9F5807A69 /* GoodsDetailModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsDetailModel.h; sourceTree = "<group>"; };
+		7EE8EE86A72F8678A2AE0FE0 /* UserInfoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserInfoModel.m; sourceTree = "<group>"; };
+		7EE8EF6FAE4DB617CB55F4C6 /* AlipayPostModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlipayPostModel.m; sourceTree = "<group>"; };
 		7EE8EFB87A702459701A761B /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -90,11 +141,55 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7EE8E01C0023FDD5F9BACF8A /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8E96CC1206C9811210957 /* RegisterReqModel.m */,
+				7EE8E9D821B058651A095491 /* RegisterReqModel.h */,
+				7EE8E054F7D0D5FC5EA05A58 /* RegisterResModel.m */,
+				7EE8E145CF005E20189C7360 /* RegisterResModel.h */,
+				7EE8EDF36B40A26B47093A4F /* LoginReqModel.m */,
+				7EE8EB465D70943995AF2848 /* LoginReqModel.h */,
+				7EE8E2132A4053AC907439F0 /* LoginResModel.m */,
+				7EE8E53C0E18DA48DD6176EB /* LoginResModel.h */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		7EE8E16F4A0EECECDDF0FA6F /* UserCenter */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8EE86A72F8678A2AE0FE0 /* UserInfoModel.m */,
+				7EE8EC28070088DA6F5A535E /* UserInfoModel.h */,
+			);
+			path = UserCenter;
+			sourceTree = "<group>";
+		};
+		7EE8E1A948A58ACB215E297A /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8E8B2400CE3F92C919796 /* RestService.m */,
+				7EE8E85B6357DB0857B6027A /* RestService.h */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
 		7EE8E1BE5BA5BC305995DBA3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		7EE8E252736058C6A8E2F67F /* Collect */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8EACF6259956CE94A7856 /* FavoriteListModel.m */,
+				7EE8EB189EB64E1C63DBABB0 /* FavoriteListModel.h */,
+				7EE8E8229D2E20CA9EAC5668 /* FavoriteModel.m */,
+				7EE8E1F4F4565C5ECFBFF233 /* FavoriteModel.h */,
+			);
+			path = Collect;
 			sourceTree = "<group>";
 		};
 		7EE8E39717FD6B81B5A03F72 /* metamallTests */ = {
@@ -104,6 +199,15 @@
 				7EE8E25D1121CB0B816DB8E1 /* metamallTests.m */,
 			);
 			path = metamallTests;
+			sourceTree = "<group>";
+		};
+		7EE8E3D3C421F29E30D375B1 /* Cart */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8E0B6D1CE089C0F0AD8A6 /* CartListModel.m */,
+				7EE8EA8CCF3F2F8890D9A383 /* CartListModel.h */,
+			);
+			path = Cart;
 			sourceTree = "<group>";
 		};
 		7EE8E42DF91A3AF0B8FC21A5 /* Supporting Files */ = {
@@ -117,13 +221,37 @@
 		7EE8E4316FE8ABE0B9B00A53 /* CART */ = {
 			isa = PBXGroup;
 			children = (
+				7EE8E662BF744C40EFCCDC46 /* CartViewController.m */,
+				7EE8E47AF27DE0DB646EFE44 /* CartViewController.h */,
 			);
 			path = CART;
+			sourceTree = "<group>";
+		};
+		7EE8E4CD72628663E872C1C6 /* Version */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8E82D3A215939F6EB6D2F /* VersionModel.m */,
+				7EE8E74A8AD6332A01EDCA1E /* VersionModel.h */,
+			);
+			path = Version;
+			sourceTree = "<group>";
+		};
+		7EE8E52D4B0F61DF99C2B484 /* Goods */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8E0681659A27E02590A18 /* GoodsListModel.m */,
+				7EE8E4D249EC680546DBF159 /* GoodsListModel.h */,
+				7EE8EAECE6261BA91C3F98DD /* GoodsDetailModel.m */,
+				7EE8EE2925C7C6F9F5807A69 /* GoodsDetailModel.h */,
+			);
+			path = Goods;
 			sourceTree = "<group>";
 		};
 		7EE8E6CE2C1CFB483FA914BE /* ME */ = {
 			isa = PBXGroup;
 			children = (
+				7EE8E1D4E5625F4E94B1E9F4 /* MeViewController.m */,
+				7EE8E1B7707C42DAB1CBC7ED /* MeViewController.h */,
 			);
 			path = ME;
 			sourceTree = "<group>";
@@ -142,8 +270,26 @@
 		7EE8E75FC91A560B439ED2C0 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				7EE8E01C0023FDD5F9BACF8A /* Login */,
+				7EE8E763E8C92DE4ABFC46E4 /* Pay */,
+				7EE8E3D3C421F29E30D375B1 /* Cart */,
+				7EE8E52D4B0F61DF99C2B484 /* Goods */,
+				7EE8E252736058C6A8E2F67F /* Collect */,
+				7EE8E16F4A0EECECDDF0FA6F /* UserCenter */,
+				7EE8E4CD72628663E872C1C6 /* Version */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		7EE8E763E8C92DE4ABFC46E4 /* Pay */ = {
+			isa = PBXGroup;
+			children = (
+				7EE8E5DEA0F1217B3980D963 /* AlipayModel.m */,
+				7EE8E6985893DEF2D84D59A8 /* AlipayModel.h */,
+				7EE8EF6FAE4DB617CB55F4C6 /* AlipayPostModel.m */,
+				7EE8E36B0B178691B5F7FF13 /* AlipayPostModel.h */,
+			);
+			path = Pay;
 			sourceTree = "<group>";
 		};
 		7EE8E8D1EC7F7E0313A82FDB /* metamallUITests */ = {
@@ -193,6 +339,7 @@
 				7EE8E7528C6163BBED0848FC /* Controllers */,
 				7EE8E75FC91A560B439ED2C0 /* Models */,
 				7EE8E1BE5BA5BC305995DBA3 /* Views */,
+				7EE8E1A948A58ACB215E297A /* Service */,
 			);
 			path = metamall;
 			sourceTree = "<group>";
@@ -210,6 +357,8 @@
 		7EE8EFACA11955309D6D17B5 /* GOODS */ = {
 			isa = PBXGroup;
 			children = (
+				7EE8ED03894DC9D8EBEB0C80 /* GoodsViewController.m */,
+				7EE8E510FA3E9C94A7F90EC7 /* GoodsViewController.h */,
 			);
 			path = GOODS;
 			sourceTree = "<group>";
@@ -346,6 +495,23 @@
 				7EE8E5D7BA309842AD4F5AC9 /* DataViewController.m in Sources */,
 				7EE8E5F74DB09EA117AA1D5C /* ModelController.m in Sources */,
 				7EE8EA5AE15CF1050F635B0B /* IndexViewController.m in Sources */,
+				7EE8EB5778740C5501E4E117 /* MeViewController.m in Sources */,
+				7EE8E6ABC9787D9A9BE7991D /* GoodsViewController.m in Sources */,
+				7EE8EF769E81569F14E0FEEE /* CartViewController.m in Sources */,
+				7EE8E771C84F93FE297C4931 /* RestService.m in Sources */,
+				7EE8EC523584F8BBB3B171AF /* RegisterReqModel.m in Sources */,
+				7EE8ED15A555AD483B0DA1E7 /* RegisterResModel.m in Sources */,
+				7EE8E71B6FFD92914420D8D8 /* LoginReqModel.m in Sources */,
+				7EE8EFD17893E6EE0D728344 /* LoginResModel.m in Sources */,
+				7EE8E63492373B21B1B083DF /* UserInfoModel.m in Sources */,
+				7EE8ED12C28E938D99251772 /* FavoriteListModel.m in Sources */,
+				7EE8E81659524AF3817C522C /* FavoriteModel.m in Sources */,
+				7EE8EE95FA59F836E2BBB1FB /* CartListModel.m in Sources */,
+				7EE8E8240F258CC001D9BC99 /* AlipayModel.m in Sources */,
+				7EE8EC95718B134EA2ED1E33 /* AlipayPostModel.m in Sources */,
+				7EE8E43ECF600F6E4958BAB7 /* VersionModel.m in Sources */,
+				7EE8EDFC98C4302FDC40563A /* GoodsListModel.m in Sources */,
+				7EE8EA28EE8C50EA1E65494A /* GoodsDetailModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
