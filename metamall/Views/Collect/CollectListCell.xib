@@ -49,15 +49,15 @@
                         <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="store.png" translatesAutoresizingMaskIntoConstraints="NO" id="Djp-O7-drm">
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="114.png" translatesAutoresizingMaskIntoConstraints="NO" id="Djp-O7-drm">
                         <rect key="frame" x="6" y="6" width="88" height="88"/>
                     </imageView>
                 </subviews>
             </tableViewCellContentView>
             <connections>
-                <outlet property="imgview" destination="Djp-O7-drm" id="dS0-y0-0Vs"/>
+                <outlet property="imgView" destination="Djp-O7-drm" id="dS0-y0-0Vs"/>
                 <outlet property="lblCollect" destination="6Jz-Wy-Nm1" id="tjl-SA-xfS"/>
-                <outlet property="lblMarket" destination="GvW-mP-SbW" id="NbP-Sg-EAW"/>
+                <outlet property="lblForSale" destination="GvW-mP-SbW" id="NbP-Sg-EAW"/>
                 <outlet property="lblPrice" destination="PfR-TR-bYF" id="eOq-LB-d3W"/>
                 <outlet property="lblStore" destination="yo9-Tm-K7v" id="dN6-3g-gDL"/>
                 <outlet property="lblTitle" destination="opb-fd-zgJ" id="1cp-bk-h11"/>
@@ -65,6 +65,6 @@
         </tableViewCell>
     </objects>
     <resources>
-        <image name="store.png" width="114" height="114"/>
+        <image name="114.png" width="114" height="114"/>
     </resources>
 </document>

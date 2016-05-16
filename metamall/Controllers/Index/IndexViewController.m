@@ -20,11 +20,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    self.textField = [[UITextField alloc] initWithFrame:CGRectMake(10.0f, 30.0f, 300.0f, 30.0f)];
-
-    self.textField.borderStyle = UITextBorderStyleRoundedRect;
-
-    [self.view addSubview:self.textField];
+//    self.textField = [[UITextField alloc] initWithFrame:CGRectMake(10.0f, 30.0f, 300.0f, 30.0f)];
+//
+//    self.textField.borderStyle = UITextBorderStyleRoundedRect;
+//
+//    [self.view addSubview:self.textField];
 }
 
 - (BOOL)textFieldShouldReturn:(UITextField *)textField {
