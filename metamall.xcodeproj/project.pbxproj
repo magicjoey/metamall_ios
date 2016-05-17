@@ -43,6 +43,7 @@
 		7EE8EC95718B134EA2ED1E33 /* AlipayPostModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EF6FAE4DB617CB55F4C6 /* AlipayPostModel.m */; };
 		7EE8ED12C28E938D99251772 /* FavoriteListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8EACF6259956CE94A7856 /* FavoriteListModel.m */; };
 		7EE8ED15A555AD483B0DA1E7 /* RegisterResModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E054F7D0D5FC5EA05A58 /* RegisterResModel.m */; };
+		7EE8ED9E88EA2A95EDD623C5 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E8FDA3CFD53B18E70DE4 /* MainViewController.m */; };
 		7EE8EDFC98C4302FDC40563A /* GoodsListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E0681659A27E02590A18 /* GoodsListModel.m */; };
 		7EE8EE2E140F070422E4B328 /* audio in Resources */ = {isa = PBXBuildFile; fileRef = 7EE8E3985CB81DD39E8FF8F5 /* audio */; };
 		7EE8EE95FA59F836E2BBB1FB /* CartListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE8E0B6D1CE089C0F0AD8A6 /* CartListModel.m */; };
@@ -68,6 +69,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7EE8E0297BB59B147AD369D8 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		7EE8E054F7D0D5FC5EA05A58 /* RegisterResModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterResModel.m; sourceTree = "<group>"; };
 		7EE8E0681659A27E02590A18 /* GoodsListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsListModel.m; sourceTree = "<group>"; };
 		7EE8E0B6D1CE089C0F0AD8A6 /* CartListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CartListModel.m; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 		7EE8E82D3A215939F6EB6D2F /* VersionModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VersionModel.m; sourceTree = "<group>"; };
 		7EE8E85B6357DB0857B6027A /* RestService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestService.h; sourceTree = "<group>"; };
 		7EE8E8B2400CE3F92C919796 /* RestService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestService.m; sourceTree = "<group>"; };
+		7EE8E8FDA3CFD53B18E70DE4 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		7EE8E96CC1206C9811210957 /* RegisterReqModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterReqModel.m; sourceTree = "<group>"; };
 		7EE8E9CCAFFB3E0F48898405 /* metamallUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = metamallUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EE8E9D821B058651A095491 /* RegisterReqModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterReqModel.h; sourceTree = "<group>"; };
@@ -297,6 +300,8 @@
 				7EE8EFACA11955309D6D17B5 /* Goods */,
 				7EE8E4316FE8ABE0B9B00A53 /* Cart */,
 				7EE8E6CE2C1CFB483FA914BE /* Me */,
+				7EE8E8FDA3CFD53B18E70DE4 /* MainViewController.m */,
+				7EE8E0297BB59B147AD369D8 /* MainViewController.h */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -578,6 +583,7 @@
 				7EE8EDFC98C4302FDC40563A /* GoodsListModel.m in Sources */,
 				7EE8EA28EE8C50EA1E65494A /* GoodsDetailModel.m in Sources */,
 				7EE8E82731765BD2B1C6FFF9 /* CollectListCell.m in Sources */,
+				7EE8ED9E88EA2A95EDD623C5 /* MainViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
